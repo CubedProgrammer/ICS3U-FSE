@@ -1,0 +1,3 @@
+import math
+def winding(theta,r):
+    return(int(math.cos(theta)*r),int(math.sin(theta)*r))

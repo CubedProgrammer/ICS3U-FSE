@@ -1,0 +1,4 @@
+This editor allows you to edit python files.
+To get started, create a new project, or use it to open an existing project.
+All you need are in the menu bars.
+You can double click on an item on the side menu to open it.

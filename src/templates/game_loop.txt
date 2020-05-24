@@ -1,0 +1,11 @@
+def game_loop(running,fps):
+    last=time.time()
+    time_passed=0
+    d=1/fps
+    while running:
+        now=time.time()
+        time_passed+=now-last
+        last=now
+        if time_passed>d:
+            ##run your code here
+            time_passed-=d
